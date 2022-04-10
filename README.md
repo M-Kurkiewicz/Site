@@ -1,2 +1,2 @@
 # Site
-https://github.com/M-Kurkiewicz
+https://m-kurkiewicz.github.io/Site/
